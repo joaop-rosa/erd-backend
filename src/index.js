@@ -1,4 +1,6 @@
-const express = require('express')
+import express from 'express'
+import cardRoutes from '../routes/cardRoutes.js'
+import mongoose from 'mongoose'
 
 const app = express()
 
@@ -10,10 +12,6 @@ app.use(
 
 app.use(express.json)
 
-// routes import
-const cardRoutes = require('../routes/cardRoutes')
-const { default: mongoose } = require('mongoose')
-
 app.use('card', cardRoutes)
 
 app.get('/', (request, response) => {response.status(200).send('Olá mundo')})
@@ -23,5 +21,5 @@ mongoose.connect(
     'mongodb://localhost:27017'
 ).then(() => {
     console.log('Conectado ao mongo')
-    app.listen(3333, () => console.log('Listen 3000'))
+    app.listen(3333, () => console.log('Listen 3333'))
 }).catch((err) => console.log(err))

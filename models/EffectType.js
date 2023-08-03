@@ -1,7 +1,7 @@
 import mongoose from "mongoose"
 
-const Element = mongoose.model('Element', {
+const EffectType = mongoose.model('EffectType', {
     name: {type: String, required: true},
 })
 
-export default Element
+export default EffectType
