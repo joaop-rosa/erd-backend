@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "64d043e748895dad4a8654fa"
+  },
+  "name": "Guerreiro",
+  "icon": "http://static.eredan.com/images/web_mid/d29065540f9987c359e6447c7027ead0.png"
+},
+{
+  "_id": {
+    "$oid": "64d043e748895dad4a8654fb"
+  },
+  "name": "Saqueador",
+  "icon": "http://static.eredan.com/images/web_mid/af0fe07aff1f68bedbccfa1747e27521.png"
+},
+{
+  "_id": {
+    "$oid": "64d043e748895dad4a8654fc"
+  },
+  "name": "Mago",
+  "icon": "http://static.eredan.com/images/web_mid/3dcf24998808c09c06cffe4b0e8d4598.png"
+},
+{
+  "_id": {
+    "$oid": "64d043e748895dad4a8654fd"
+  },
+  "name": "Berserker",
+  "icon": "http://static.eredan.com/images/web_mid/2dd0835cc885e1fcba61234813339d0d.png"
+},
+{
+  "_id": {
+    "$oid": "64d043e748895dad4a8654fe"
+  },
+  "name": "Desconhecido",
+  "icon": "http://static.eredan.com/images/web_mid/492c246bbfb23cbffb210c943b57b636.png"
+},
+{
+  "_id": {
+    "$oid": "64d043e748895dad4a8654ff"
+  },
+  "name": "Artesão",
+  "icon": "http://static.eredan.com/images/web_mid/2725070774ffdc6ecce88bf718a201f4.png"
+},
+{
+  "_id": {
+    "$oid": "64d043e748895dad4a865500"
+  },
+  "name": "Clérigo",
+  "icon": "http://static.eredan.com/images/web_mid/effa47fc496aa429e1659d86cf013a32.png"
+}]

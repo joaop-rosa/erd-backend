@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb902"
+  },
+  "name": "Humano",
+  "icon": "http://static.eredan.com/images/web_mid/b8fd7156eb2accbe248edb830e51a31a.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb903"
+  },
+  "name": "Guemelite",
+  "icon": "http://static.eredan.com/images/web_mid/913a4a78fc412e2f7109ca8a0cb2afc8.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb904"
+  },
+  "name": "Golem",
+  "icon": "http://static.eredan.com/images/web_mid/e547a92251e2cae83e3a471fbbc17aad.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb905"
+  },
+  "name": "Morto-vivo",
+  "icon": "http://static.eredan.com/images/web_mid/0da168c6ff621b0692cd508c06ad0d95.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb906"
+  },
+  "name": "Demônio",
+  "icon": "http://static.eredan.com/images/web_mid/38756aa33295294c290508b39d0ff7f2.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb907"
+  },
+  "name": "Elfo do gelo",
+  "icon": "http://static.eredan.com/images/web_mid/9278d654a93371f8ce51d69d5d2403b5.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb908"
+  },
+  "name": "Fera",
+  "icon": "http://static.eredan.com/images/web_mid/bc76cea60a2b788a609071bdd2e90108.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb909"
+  },
+  "name": "Elfine",
+  "icon": "http://static.eredan.com/images/web_mid/4b00fff59335948b8c6d8fdcad810801.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb90a"
+  },
+  "name": "Dais",
+  "icon": "http://static.eredan.com/images/web_mid/483c073b7343e496eaa25fba082f71d6.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb90b"
+  },
+  "name": "Hom Chai",
+  "icon": "http://static.eredan.com/images/web_mid/152855ae321d645b01f9abbabb560032.png"
+},
+{
+  "_id": {
+    "$oid": "64cc31a5876049325cbfb90c"
+  },
+  "name": "Solariano",
+  "icon": "http://static.eredan.com/images/web_mid/823d4e6b6bcbe3faaded772e983aad99.png"
+},
+{
+  "_id": {
+    "$oid": "64cc4eb9876049325cbfb91c"
+  },
+  "name": "Desconhecido",
+  "icon": "http://static.eredan.com/images/web_mid/39440e8aafd7141e552e7e749b6f9434.png"
+}]

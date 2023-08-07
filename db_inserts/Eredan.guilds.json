@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb911"
+  },
+  "name": "Piratas",
+  "icon": "http://static.eredan.com/images/web_mid/18b157d54ea51490d87fa5289dd43c38.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb912"
+  },
+  "name": "Nômades do deserto",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb913"
+  },
+  "name": "Legião rúnica",
+  "icon": "http://static.eredan.com/images/web_mid/57a941ada9c0991d04945d7d221f75c1.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb914"
+  },
+  "name": "Kotobas",
+  "icon": "http://static.eredan.com/images/web_mid/462fe73b74a8f01f54fdd33eaba323b7.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb915"
+  },
+  "name": "Coração de seiva",
+  "icon": "http://static.eredan.com/images/web_mid/c110c36a81557aa66fc777345f149969.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb916"
+  },
+  "name": "Mercenários",
+  "icon": "http://static.eredan.com/images/web_mid/db0b06c586298efe1c579a8e7ab5febc.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb917"
+  },
+  "name": "Liga lítica",
+  "icon": "http://static.eredan.com/images/web_mid/a97d336f6ad4cbee527ff1fe9f5bb4ec.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb918"
+  },
+  "name": "Neantistas",
+  "icon": "http://static.eredan.com/images/web_mid/fe7aa75fa9f3031c09aa1849b915deb4.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb919"
+  },
+  "name": "Enviados de Noz Dingard",
+  "icon": "http://static.eredan.com/images/web_mid/6d67edf96a5395213ce3734526c04f0f.png"
+},
+{
+  "_id": {
+    "$oid": "64cc39bf876049325cbfb91a"
+  },
+  "name": "Guerreiros Zil",
+  "icon": "http://static.eredan.com/images/web_mid/ab53ea879665aa998ffff246d8a25ba5.png"
+}]

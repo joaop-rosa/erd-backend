@@ -1,6 +1,8 @@
 import mongoose from 'mongoose'
 
-export const Class = mongoose.model('Class', {
+const Race = mongoose.model('Race', {
   name: { type: String, required: true },
   icon: { type: String, required: true },
 })
+
+export default Race

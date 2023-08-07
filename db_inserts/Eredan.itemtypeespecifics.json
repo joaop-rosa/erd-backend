@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "64d049bc48895dad4a865566"
+  },
+  "name": "Capacete",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a865541"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a865567"
+  },
+  "name": "Pedra coração",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a865544"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a865568"
+  },
+  "name": "Lança",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a865569"
+  },
+  "name": "Machado",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a86556a"
+  },
+  "name": "Arco",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a86556b"
+  },
+  "name": "Adaga",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a86556c"
+  },
+  "name": "Espada",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a86556d"
+  },
+  "name": "Cajado",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a86556e"
+  },
+  "name": "Garra",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a86556f"
+  },
+  "name": "Mangual",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d049bc48895dad4a865570"
+  },
+  "name": "Pólvora",
+  "item_type_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  }
+}]

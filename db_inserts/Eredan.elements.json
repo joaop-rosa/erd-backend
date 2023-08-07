@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64d045ef48895dad4a86552c"
+  },
+  "name": "Ar"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a86552d"
+  },
+  "name": "Draconico"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a86552e"
+  },
+  "name": "Terra"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a86552f"
+  },
+  "name": "Fogo"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865530"
+  },
+  "name": "Natureza"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865531"
+  },
+  "name": "Guerra"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865532"
+  },
+  "name": "Guem"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865533"
+  },
+  "name": "Luz"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865534"
+  },
+  "name": "Trovão"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865535"
+  },
+  "name": "Mental"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865536"
+  },
+  "name": "Sombra"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865537"
+  },
+  "name": "Tempo"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865538"
+  },
+  "name": "Água"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a865539"
+  },
+  "name": "Neantica"
+},
+{
+  "_id": {
+    "$oid": "64d045ef48895dad4a86553a"
+  },
+  "name": "Corrupção"
+}]

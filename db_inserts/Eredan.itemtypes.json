@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "64d0468348895dad4a86553d"
+  },
+  "name": "Amuleto"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a86553e"
+  },
+  "name": "Armadura"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a86553f"
+  },
+  "name": "Flecha"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865540"
+  },
+  "name": "Banner"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865541"
+  },
+  "name": "Roupa"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865542"
+  },
+  "name": "Evento"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865543"
+  },
+  "name": "Comida"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865544"
+  },
+  "name": "Jóia"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865545"
+  },
+  "name": "Livro mágico"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865546"
+  },
+  "name": "Outro"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865547"
+  },
+  "name": "Poção"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865548"
+  },
+  "name": "Marionete"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a865549"
+  },
+  "name": "Pergaminho"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a86554a"
+  },
+  "name": "Escudo"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a86554b"
+  },
+  "name": "Ferramenta"
+},
+{
+  "_id": {
+    "$oid": "64d0468348895dad4a86554c"
+  },
+  "name": "Arma"
+}]

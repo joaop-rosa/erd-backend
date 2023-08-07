@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86550c"
+  },
+  "name": "Abara"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86550d"
+  },
+  "name": "Arconte"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86550e"
+  },
+  "name": "Avalônio"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86550f"
+  },
+  "name": "Capitão"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865510"
+  },
+  "name": "Campeão"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865511"
+  },
+  "name": "Circo"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865512"
+  },
+  "name": "Colossal"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865513"
+  },
+  "name": "Compendium"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865514"
+  },
+  "name": "Areia corrosiva"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865515"
+  },
+  "name": "Cortesão"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865516"
+  },
+  "name": "Corvo"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865517"
+  },
+  "name": "Cavaleiro amaldiçoado"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865518"
+  },
+  "name": "Caçador de demônio"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865519"
+  },
+  "name": "Cavaleiro dragão"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86551a"
+  },
+  "name": "Eclipse"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86551b"
+  },
+  "name": "Gladiador"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86551c"
+  },
+  "name": "Imortal"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86551d"
+  },
+  "name": "Mecânica"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86551e"
+  },
+  "name": "Caçador de Místicos"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a86551f"
+  },
+  "name": "Necromante"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865520"
+  },
+  "name": "Terror da noite"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865521"
+  },
+  "name": "Sombramante"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865522"
+  },
+  "name": "Domador"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865523"
+  },
+  "name": "Guardião do templo"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865524"
+  },
+  "name": "Tempus"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865525"
+  },
+  "name": "Trupe"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865526"
+  },
+  "name": "Rastreador"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865527"
+  },
+  "name": "Tsoutai"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865528"
+  },
+  "name": "Lamina mística"
+},
+{
+  "_id": {
+    "$oid": "64d0458e48895dad4a865529"
+  },
+  "name": "Árvore mundo"
+}]
